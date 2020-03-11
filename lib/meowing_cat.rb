@@ -4,5 +4,5 @@ class Cat
 end
 def meow 
   puts "meow!"
-Cat.meow
+maru.meow
 end
